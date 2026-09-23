@@ -1,125 +1,125 @@
 #EXTM3U
 
 
-#EXTINF:-9,StêrkTV
+#EXTINF:-1,StêrkTV
 https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
 
-#EXTINF:-8,JIN TV
+#EXTINF:-2,JIN TV
 https://live.jintv.org/medialive/jintv.m3u8
 
-#EXTINF:-1,CIRATV
+#EXTINF:-3,CIRATV
 https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
 
-#EXTINF:-1,ROJAVA
+#EXTINF:-4,ROJAVA
 https://hlspackager.akamaized.net/live/DB/ROJAVA_HD/HLS/ROJAVA_HD.m3u8
 
-#EXTINF:-1,RUDAW
+#EXTINF:-5,RUDAW
 https://hlspackager.akamaized.net/live/DB/RUDAW/HLS/RUDAW.m3u8
 
-#EXTINF:-1,Kurdistan24 TV
+#EXTINF:-6,Kurdistan24 TV
 https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
 
 #EXTINF:-7,Kurdistan tv
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 
-#EXTINF:-3,RonahiTV
+#EXTINF:-8,RonahiTV
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 
-#EXTINF:-5,GeleKurdistan
+#EXTINF:-9,GeleKurdistan
 https://live.host247.net/gk/gksat/chunklist_w1377661411.m3u8
 
-#EXTINF:-1,WAAR
+#EXTINF:-10,WAAR
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
 
-#EXTINF:-6,Ava Media TV
+#EXTINF:-11,Ava Media TV
 https://familyhls.avatv.live/hls/stream.m3u8
 
-#EXTINF:-10,Edessa
+#EXTINF:-12,Edessa
 https://canli.edessatv.com/hls/stream.m3u8
 
-#EXTINF:-2,WelatTV
+#EXTINF:-13,WelatTV
 https://stream.badinan.xyz/welat/tv/chunklist_w1721419603.m3u8
 
-#EXTINF:-4,Med Muzik TV
+#EXTINF:-14,Med Muzik TV
 http://54.36.110.140/live3/live3.m3u8
 
-#EXTINF:-1,4KURD
+#EXTINF:-15,4KURD
 https://4kuhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-11,Zarok TV
+#EXTINF:-16,Zarok TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
-#EXTINF:-12,TRT Kurdi
+#EXTINF:-17,TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master_1440.m3u8
 
-#EXTINF:-13,TRT 1
+#EXTINF:-18,TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-14,TRT Belgesel
+#EXTINF:-19,TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-15,TRTCocuk
+#EXTINF:-20,TRTCocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-16,TRT Turk
+#EXTINF:-21,TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-17,TRT HABER
+#EXTINF:-22,TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-18,HABER TURK
+#EXTINF:-23,HABER TURK
 https://tv.ensonhaber.com/haberturk/haberturk.m3u8
 
-#EXTINF:-19,HABER GLOBAL
+#EXTINF:-24,HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
 
-#EXTINF:-20,NTV
+#EXTINF:-25,NTV
 http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 
-#EXTINF:-21,HALK TV
+#EXTINF:-26,HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
-#EXTINF:-22,TBMM
+#EXTINF:-27,TBMM
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 
-#EXTINF:-23,BEYAZ TV
+#EXTINF:-28,BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 
-#EXTINF:-24,TV24
+#EXTINF:-29,TV24
 https://tv.ensonhaber.com/tv24/tv24.m3u8
 
-#EXTINF:-25,Star TV
+#EXTINF:-30,Star TV
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
-#EXTINF:-26,NOW
+#EXTINF:-31,NOW
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
-#EXTINF:-27,ATV
+#EXTINF:-32,ATV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
 
-#EXTINF:-28,SHOWTV
+#EXTINF:-33,SHOWTV
 https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
 
-#EXTINF:-29,KanalD
+#EXTINF:-34,KanalD
 http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
 
-#EXTINF:-30,TV8
+#EXTINF:-35,TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 
-#EXTINF:-31,TV8.5
+#EXTINF:-36,TV8.5
 https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
 
-#EXTINF:-32,360 TV 
+#EXTINF:-37,360 TV 
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:-33,A2TV
+#EXTINF:-38,A2TV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
-#EXTINF:-34,TVNET
+#EXTINF:-39,TVNET
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 
-#EXTINF:-35,TGRT HABER
+#EXTINF:-40,TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
 
-#EXTINF:-36,GZT
+#EXTINF:-41,GZT
 https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
