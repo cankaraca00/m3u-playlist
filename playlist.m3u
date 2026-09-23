@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1,Med Muzik TV
-http://54.36.110.140/live3/live3.m3u8
+#EXTINF:-1,WAAR
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
 
 #EXTINF:-2,WelatTV
 https://stream.badinan.xyz/welat/tv/chunklist_w1721419603.m3u8
@@ -9,8 +9,8 @@ https://stream.badinan.xyz/welat/tv/chunklist_w1721419603.m3u8
 #EXTINF:-3,RonahiTV
 https://hlspackager.akamaized.net/live/DB/RONAHI_TV/HLS/RONAHI_TV.m3u8
 
-#EXTINF:-4,WAAR
-https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
+#EXTINF:-4,Med Muzik TV
+http://54.36.110.140/live3/live3.m3u8
 
 #EXTINF:-5,GeleKurdistan
 https://live.host247.net/gk/gksat/chunklist_w1377661411.m3u8
@@ -45,17 +45,65 @@ https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-15,TRTCocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-16,Star TV
+#EXTINF:-16,TRT Turk
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-17,TRT HABER
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-18,HABER TURK
+https://tv.ensonhaber.com/haberturk/haberturk.m3u8
+
+#EXTINF:-19,HABER GLOBAL
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+
+#EXTINF:-20,NTV
+http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
+
+#EXTINF:-21,HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+
+#EXTINF:-22,TBMM
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+
+#EXTINF:-23,BEYAZ TV
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+
+#EXTINF:-24,TV24
+https://tv.ensonhaber.com/tv24/tv24.m3u8
+
+#EXTINF:-25,Star TV
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
 
-#EXTINF:-17,360 TV 
+#EXTINF:-26,NOW
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+
+#EXTINF:-27,ATV
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_1080p.m3u8
+
+#EXTINF:-28,SHOWTV
+https://ciner.daioncdn.net/showtv/showtv.m3u8?ce=3&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558
+
+#EXTINF:-29,KanalD
+http://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+
+#EXTINF:-30,TV8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
+
+#EXTINF:-31,TV8.5
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web
+
+#EXTINF:-32,360 TV 
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:-18,A2TV
+#EXTINF:-33,A2TV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
-#EXTINF:-19,TVNET
+#EXTINF:-34,TVNET
 https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
 
-#EXTINF:-20,TGRT HABER
+#EXTINF:-35,TGRT HABER
 https://canli.tgrthaber.com/tgrt.m3u8
+
+#EXTINF:-36,GZT
+https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
