@@ -49,6 +49,15 @@ https://4kuhls.persiana.live/hls/stream.m3u8
 #EXTINF:-16,Zarok TV
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
+#EXTINF:-1,ZAROK KURMANÎ
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+
+#EXTINF:-1,ZAROK SORANÎ
+https://zindisorani.zaroktv.com.tr/hls/stream.m3u8
+
+#EXTINF:-20,TRTCocuk
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+
 #EXTINF:-17,TRT Kurdi
 https://tv-trtkurdi.medya.trt.com.tr/master_1440.m3u8
 
@@ -57,9 +66,6 @@ https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-19,TRT Belgesel
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-20,TRTCocuk
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-21,TRT Turk
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
@@ -79,14 +85,23 @@ http://dygvideo.dygdigital.com/live/hls/ntv4puhu?m3u8
 #EXTINF:-26,HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
 
+#EXTINF:-39,TVNET
+https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
+
+#EXTINF:-40,TGRT HABER
+https://canli.tgrthaber.com/tgrt.m3u8
+
+#EXTINF:-29,TV24
+https://tv.ensonhaber.com/tv24/tv24.m3u8
+
+#EXTINF:-41,GZT
+https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
+
 #EXTINF:-27,TBMM
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
 
 #EXTINF:-28,BEYAZ TV
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-
-#EXTINF:-29,TV24
-https://tv.ensonhaber.com/tv24/tv24.m3u8
 
 #EXTINF:-30,Star TV
 http://dygvideo.dygdigital.com/live/hls/startv4puhu?m3u8
@@ -115,11 +130,5 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-38,A2TV
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
 
-#EXTINF:-39,TVNET
-https://tvnet-live.lg.mncdn.com/tvnet/tvnet/playlist.m3u8
-
-#EXTINF:-40,TGRT HABER
-https://canli.tgrthaber.com/tgrt.m3u8
-
-#EXTINF:-41,GZT
-https://gzttv-live.lg.mncdn.com/gzttv/gzttv/playlist.m3u8
+#EXTINF:-1,POWER KÜRT
+https://live.artidijitalmedya.com/artidijital_powerturktv/powerturktv/playlist.m3u8
